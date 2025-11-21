@@ -29,7 +29,7 @@ Este projeto teve como objetivo implementar os método de GAUSS, Bissecção e D
 
 GitHub [(SAIBA MAIS)](https://github.com/JefersonNakayama/Jeferson-MetodosNum_FuncaoPolinomial.git)
 
-### Trabalho de Conclusão de Curso (TCC) - ESTRATÉGIAS GAMIFICADAS COMO ESTÍMULOS À APRENDIZAGEM EM CIBERSEGURANÇA
+### Trabalho de Conclusão de Curso(TCC) - ESTRATÉGIAS GAMIFICADAS COMO ESTÍMULOS À APRENDIZAGEM EM CIBERSEGURANÇA
 
 Meu artigo examina como estratégias de gamificação podem atuar como ferramentas eficazes para estimular a aprendizagem em cibersegurança, especialmente em ambientes educacionais e corporativos. A partir de uma revisão bibliográfica abrangente, o estudo analisa elementos como pontuação, recompensas, narrativas, níveis e competições, investigando de que forma tais mecanismos influenciam o comportamento dos usuários diante de ameaças digitais. O texto discute ainda frameworks específicos, como o RAD-SIM e métodos gamificados amplamente utilizados, como competições Capture The Flag (CTF), demonstrando que abordagens lúdicas aumentam significativamente o engajamento, a retenção de conhecimento e a motivação, principalmente entre alunos sem formação prévia na área. Com base nos resultados observados em diversas pesquisas, o artigo conclui que a gamificação não apenas complementa métodos tradicionais, mas representa uma estratégia pedagógica promissora para fortalecer a cultura de segurança e mitigar riscos associados ao fator humano.
 
