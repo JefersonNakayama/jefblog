@@ -23,7 +23,7 @@ O código implementa um pequeno sistema de cadastro de livros utilizando Vue.js 
 
 GitHub [(SAIBA MAIS)](https://github.com/JefersonNakayama/Desafio_PrimeiroComponente.git)
 
-### Trabalho de Cálculo  Métodos Numéricos/Função Polinomial
+### Trabalho de Cálculo Métodos Numéricos/Função Polinomial
 
 Este projeto teve como objetivo implementar os método de GAUSS, Bissecção e Decomposição LU em um site HTML e fazer uma calculadora para cada uma delas e apresentar os resultados durante a finalização da prova.
 
