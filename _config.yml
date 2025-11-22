@@ -105,5 +105,5 @@ deploy:
   type: git
   repo: git@github.com:JefersonNakayama/jefblog.git
   branch: main
-  message: "Update blog"
+  message: "update"
   deploy_dir: docs
