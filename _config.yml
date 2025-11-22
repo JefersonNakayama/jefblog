@@ -103,5 +103,7 @@ theme: alpha-dust
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/JefersonNakayama/jefblog.git
-  branch: master
+  repo: git@github.com:JefersonNakayama/jefblog.git
+  branch: main
+  message: "update"
+  deploy_dir: docs
