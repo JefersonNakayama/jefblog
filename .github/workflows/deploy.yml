@@ -1,48 +1,6 @@
-name: Deploy Hexo to GitHub Pages
-
-on:
-  push:
-    branches: [main]
-
-jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pages: write
-      id-token: write
-    
-    steps:
-    - name: Checkout
-      uses: actions/checkout@v4
-      with:
-        submodules: false
-        fetch-depth: 0
-
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-js-version: '18'
-        cache: 'npm'
-
-    - name: Install dependencies
-      run: |
-        npm install
-        npm install hexo-cli -g
-
-    - name: Build site
-      run: |
-        hexo clean
-        hexo generate
-
-    - name: Setup Pages
-      uses: actions/configure-pages@v4
-
-    - name: Upload artifact
-      uses: actions/upload-pages-artifact@v3
-      with:
-        path: ./public
-
-    - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v4
+- name: Checkout
+  uses: actions/checkout@v4
+  with:
+    fetch-depth: 0
+    submodules: recursive
+    persist-credentials: false
